@@ -1,0 +1,11 @@
+{
+  "resource": {
+    "name": "isomorphic-hook",
+    "owner":"reimertz",
+    "path": "/:id",
+    "cron": "* * * * *",
+    "cronActive": false,
+    "isPrivate": true,
+    "customTimeout": 30000
+  }
+}
