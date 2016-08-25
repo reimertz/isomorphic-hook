@@ -15,7 +15,7 @@ npm install
 
 ## run
 ```
-subl hook.config.json  # change the name if you plan to have several hooks running
+subl hook.config.json  # change the name if you haven't already
 npm start              # boots up an live server mimicking the live hook.io enviroment
 npm deploy             # deploys you hook to hook.io/username/hook-name
 npm delete             # duh
