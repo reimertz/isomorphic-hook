@@ -2,6 +2,10 @@
 
 an isomorphic hook boilerplate based on hook.io
 
+## motivation
+I love hook.io but I found it to be kind of hard to work with complex hooks. Wouldnät it be awesome if there was an easy way to create a hook, mess around with it locally, and then deploy it all from the CLI? Now you can :D
+
+__cation: there is a huge change there is a better way of doing this, if so, please point it out so I can either improve this project, or just depricate it.___
 
 ## prerequisites
  - create an account at [hook.io](http://hook.io)
