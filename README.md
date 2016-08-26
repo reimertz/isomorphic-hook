@@ -10,8 +10,8 @@ beware: there is a risk there is a better way of doing this, if so, please point
 ## prerequisites
  - create an account at [hook.io](http://hook.io)
  - generate an access key with full access  [hook.io/keys](http://hook.io/keys)
- - add `EXPORT HOOK_ADMIN_ACCESS_KEY='<insert access key here>'` to your .bash_profile
- - don't forget to `source .bash_profile'`
+ - add `EXPORT HOOK_ADMIN_ACCESS_KEY='<insert access key here>' to your .bash_profile
+ - don't forget to `source .bash_profile`
  
 ## install
 ```
