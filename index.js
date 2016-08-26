@@ -16,7 +16,6 @@ let hookObject = JSON.parse(fs.readFileSync('./hook.config.json'))
     hookObject.fs = fs
     hookObject.datastore = API.datastore
     hookObject._data = {}
-    hookObject.notHookENV = true
 
 const r = hookObject.resource
 
