@@ -25,3 +25,6 @@ npm start              # boots up an live server mimicking the live hook.io envi
 npm deploy             # deploys you hook to hook.io/username/hook-name
 npm delete             # duh
 ```
+
+## examples
+[random-full-screen-cats](https://hook.io/reimertz/random-fullscreen-cat) [(source)][https://hook.io/reimertz/random-fullscreen-cat/source]
