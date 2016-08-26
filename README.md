@@ -15,12 +15,15 @@ beware: there is a risk there is a better way of doing this, if so, please point
  
 ## install
 ```
+git clone https://github.com/reimertz/isomorphic-hook.git isomorphic-hook
+cd isomorphic-hook
+subl hook.config.json  # change the name and owner
 npm install
 ```
 
 ## run
 ```
-subl hook.config.json  # change the name if you haven't already
+
 npm start              # boots up an live server mimicking the live hook.io enviroment
 npm deploy             # deploys you hook to hook.io/username/hook-name
 npm delete             # duh
