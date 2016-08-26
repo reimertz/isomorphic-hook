@@ -27,4 +27,4 @@ npm delete             # duh
 ```
 
 ## examples
-[random-full-screen-cats](https://hook.io/reimertz/random-fullscreen-cat) [(source)][https://hook.io/reimertz/random-fullscreen-cat/source]
+[random-full-screen-cats](https://hook.io/reimertz/random-fullscreen-cat) [(source)](https://hook.io/reimertz/random-fullscreen-cat/source)
