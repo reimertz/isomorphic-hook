@@ -32,6 +32,7 @@ export default function isomorphicHook(hook) {
 
 
   function main(dataStore) {
+    //Add hook code here
     hook.res.json(hook.req.params)
   }
 }
